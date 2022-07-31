@@ -7,7 +7,7 @@ Hello World App is a pre-work project for code path's which has all the three re
 
 
 <img src="https://github.com/olivia-tran/prework/blob/main/video_walkthrough.gif" width=200><br>
-
+**Please scroll to the right to see the emulator screen. 
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
