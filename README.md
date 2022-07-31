@@ -7,7 +7,7 @@ Hello World App is a project to get familiarized myself with Kotlin which has al
 
 
 <img src="https://github.com/olivia-tran/prework/blob/main/video_walkthrough.gif" width=200><br>
-**Please scroll to the right to see the emulator screen. 
+**Please scroll to the right to see the emulator screen.**
 
 ### Required User Stories
 - [x ] 1. User sees custom text in a label - Hello from {name}!
