@@ -1,7 +1,7 @@
 ## Hello World
 
 ### App Description
-Hello World App is a pre-work project for code path's which has all the three required features, including: custom text greetings, custom background color and the ability to change text color when users tap a button.
+Hello World App is a project to get familiarized myself with Kotlin which has all the three features, including: custom text greetings, custom background color and the ability to change text color when users tap a button.
 
 ### App Walk-though
 
